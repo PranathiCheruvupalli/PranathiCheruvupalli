@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-<br>- 🔭 I’m currently working on Data Structures<br>- 🌱 I’m currently learning MERN Stack<br>- 👯 I’m looking to collaborate on projects related to Data Analytics<br>- 🤔 I’m looking for help with AI and ML<br>- 💬 Ask me about Python, SQL, HTML, CSS<br>- 📫 How to reach me: [https://github.com/PranathiCheruvupalli,https://www.linkedin.com/in/pranathi-cheruvupalli-0991a5280/,pranathinetha29@gmail.com]<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: My favorite programming language? CTRL+C and CTRL+V<br>
+<br>- 🔭 I’m currently working on Java Applications<br>- 🌱 I’m currently learning MERN Stack<br>- 👯 I’m looking to collaborate on projects related to Data Analytics<br>- 🤔 I’m looking for help with AI and ML<br>- 💬 Ask me about Python, SQL, HTML, CSS<br>- 📫 How to reach me: [https://github.com/PranathiCheruvupalli,https://www.linkedin.com/in/pranathi-cheruvupalli-0991a5280/,pranathinetha29@gmail.com]<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: My favorite programming language? CTRL+C and CTRL+V<br>
 
 
 ## 🌐 Socials:
